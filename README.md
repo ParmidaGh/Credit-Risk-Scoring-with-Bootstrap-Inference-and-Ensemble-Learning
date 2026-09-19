@@ -237,7 +237,7 @@ Credit-Risk-Scoring-with-Bootstrap-Inference-and-Ensemble-Learning
 ## Clone Repository
 
 ```bash
-git clone https://github.com/farzadjannati/Credit-Risk-Scoring-with-Bootstrap-Inference-and-Ensemble-Learning.git
+git clone https://github.com/ParmidaGh/Credit-Risk-Scoring-with-Bootstrap-Inference-and-Ensemble-Learning.git
 cd Credit-Risk-Scoring-with-Bootstrap-Inference-and-Ensemble-Learning
 ```
 
