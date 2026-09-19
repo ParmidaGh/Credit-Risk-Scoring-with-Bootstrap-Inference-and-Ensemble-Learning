@@ -1,9 +1,4 @@
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:ca8a04&height=220&section=header&text=Credit%20Risk%20Scoring%20with%20Bootstrap%20Inference%20%26%20Ensemble%20Learning&fontSize=26&fontColor=ffffff&fontAlignY=50&animation=fadeIn"
-    alt="Credit Risk Scoring with Bootstrap Inference & Ensemble Learning"
-  />
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:ca8a04&height=200&section=header&text=Credit%20Risk%20Scoring&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Bootstrap%20Inference%20%26%20Ensemble%20Learning&descAlignY=62&descSize=18&animation=fadeIn" /> </div>
 
 ---
 
